@@ -1,0 +1,5 @@
+C:\Users\chen0\git-cs\cs-quad-tree\cs-quad-tree\bin\Debug\cs-quad-tree.dll
+C:\Users\chen0\git-cs\cs-quad-tree\cs-quad-tree\bin\Debug\cs-quad-tree.pdb
+C:\Users\chen0\git-cs\cs-quad-tree\cs-quad-tree\obj\Debug\cs-quad-tree.csprojResolveAssemblyReference.cache
+C:\Users\chen0\git-cs\cs-quad-tree\cs-quad-tree\obj\Debug\cs-quad-tree.dll
+C:\Users\chen0\git-cs\cs-quad-tree\cs-quad-tree\obj\Debug\cs-quad-tree.pdb

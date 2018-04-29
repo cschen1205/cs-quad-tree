@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cs-decision-tree</id>
+    <version>1.0.1</version>
+    <authors>cschen1205</authors>
+    <owners>cschen1205</owners>
+    <licenseUrl>https://github.com/cschen1205/cs-decision-tree/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cschen1205/cs-decision-tree</projectUrl>
+    <iconUrl>https://rawgit.com/cschen1205/cs-decision-tree/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Decision Trees ID3 and C45</description>
+    <releaseNotes>Decision Trees ID3 and C45 in .NET 4.6.1</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Decision Trees, ID3, C45, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>

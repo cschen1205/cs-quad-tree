@@ -1,21 +1,4 @@
-# cs-quad-tree
-
-QuadTree Implementation
-
-# Install
-
-Run the follow nuget command to install:
-
-```bash
-Install-Package cs-quad-tree 
-```
-
-# Usage
-
-The sample code below shows how to use the quad-tree:
-
-```cs 
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -62,4 +45,3 @@ namespace QuadTreeLib
         }
     }
 }
-```
